@@ -25,7 +25,7 @@ Need to create a Hospital Emergency Room Analysis Dashboard in Power BI to impro
 - And Create Some Pivot Charts
 
 #DashBoard
-(https://github.com/VivekCodesData/Data-Analysis-Dashboard/blob/main/Dashboard.png)
+- (https://github.com/VivekCodesData/Data-Analysis-Dashboard/blob/main/Dashboard.png)
 
 
 
