@@ -24,7 +24,8 @@ Need to create a Hospital Emergency Room Analysis Dashboard in Power BI to impro
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 - And Create Some Pivot Charts
 
-
+#DashBoard
+(https://github.com/VivekCodesData/Data-Analysis-Dashboard/blob/main/Dashboard.png)
 
 
 
