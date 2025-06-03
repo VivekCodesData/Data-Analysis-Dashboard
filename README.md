@@ -14,7 +14,7 @@ Need to create a Hospital Emergency Room Analysis Dashboard in Power BI to impro
 - Gender Analysis: Display the number of patients by gender. 
 - Department Referrals: Check which departments patients are referred to the most.
 
-- 
+- <a href="https://github.com/VivekCodesData/Data-Analysis-Dashboard/blob/main/Project.xlsx">DashBoard Of Hospital Daily Report<a/> 
 
 
 
